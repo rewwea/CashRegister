@@ -1,0 +1,15 @@
+/Users/rewwea/Code/cs/CashRegister/bin/Debug/net9.0/CashRegister
+/Users/rewwea/Code/cs/CashRegister/bin/Debug/net9.0/CashRegister.deps.json
+/Users/rewwea/Code/cs/CashRegister/bin/Debug/net9.0/CashRegister.runtimeconfig.json
+/Users/rewwea/Code/cs/CashRegister/bin/Debug/net9.0/CashRegister.dll
+/Users/rewwea/Code/cs/CashRegister/bin/Debug/net9.0/CashRegister.pdb
+/Users/rewwea/Code/cs/CashRegister/obj/Debug/net9.0/CashRegister.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rewwea/Code/cs/CashRegister/obj/Debug/net9.0/CashRegister.AssemblyInfoInputs.cache
+/Users/rewwea/Code/cs/CashRegister/obj/Debug/net9.0/CashRegister.AssemblyInfo.cs
+/Users/rewwea/Code/cs/CashRegister/obj/Debug/net9.0/CashRegister.csproj.CoreCompileInputs.cache
+/Users/rewwea/Code/cs/CashRegister/obj/Debug/net9.0/CashRegister.sourcelink.json
+/Users/rewwea/Code/cs/CashRegister/obj/Debug/net9.0/CashRegister.dll
+/Users/rewwea/Code/cs/CashRegister/obj/Debug/net9.0/refint/CashRegister.dll
+/Users/rewwea/Code/cs/CashRegister/obj/Debug/net9.0/CashRegister.pdb
+/Users/rewwea/Code/cs/CashRegister/obj/Debug/net9.0/CashRegister.genruntimeconfig.cache
+/Users/rewwea/Code/cs/CashRegister/obj/Debug/net9.0/ref/CashRegister.dll
