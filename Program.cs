@@ -1,27 +1,21 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Program
 {
     static void Main()
     {
-        Console.Write("Введите нижнюю границу диапазона: ");
-        int min = int.Parse(Console.ReadLine());
+        Console.WriteLine("Добро пожаловать в магазин новогодних товаров!");
 
-        Console.Write("Введите верхнюю границу диапазона: ");
-        int max = int.Parse(Console.ReadLine());
-
-        int number;
-        do
+        // Товары
+        Dictionary<string, (decimal price, int stock)> products = new Dictionary<string, (decimal, int)>()
         {
-            Console.Write("Введите число в заданном диапазоне: ");
-            number = int.Parse(Console.ReadLine());
+            { "Ёлка", (1000m, 5) },
+            { "Гирлянда", (500m, 10) },
+            { "Игрушка", (200m, 15) },
+            { "Хлопушка", (100m, 20) }
+        };
 
-            if (number < min || number > max)
-            {
-                Console.WriteLine("Число вне диапазона. Попробуйте снова.");
-            }
-        } while (number < min || number > max);
-
-        Console.WriteLine($"Число {number} находится в диапазоне [{min}, {max}]");
+        // TODO: выбор товара, количество, подсчет суммы
     }
 }
